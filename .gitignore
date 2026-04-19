@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Large numpy files
+X_train.npy
+X_val.npy
+y_train.npy
+y_val.npy
+
+# Saved models (too large for GitHub)
+saved_model/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Data folder (too large)
+data/
