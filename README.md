@@ -25,9 +25,9 @@ Along with detection, the project includes a **Streamlit web app** to:
 
 ### 🔍 Car Detection Demo
 
-![Demo GIF](demo.gif)
+![Demo3 GIF](Demo3.gif)
+![Demo4 GIF](Demo4.gif)
 
-> ⚠️ Tip: Record a short screen capture of your Streamlit app and save it as `demo.gif` for best impact.
 
 ---
 
